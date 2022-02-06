@@ -22,7 +22,6 @@ public class ReadInput : MonoBehaviour
 
     public void ReadStringInput()
     {
-        input.text = s;
         Debug.Log(input);
     }
 }
